@@ -1,15 +1,8 @@
 <div align="center">
 
-
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=1800&pause=999999&color=FF2D55&center=true&vCenter=true&multiline=true&width=850&height=120&lines=NIRMAL-RADIKA;======================" alt="NIRMAL-RADIKA" />
 
 </div>
-
-
-
 
 
 
