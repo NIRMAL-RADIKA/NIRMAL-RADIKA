@@ -16,7 +16,19 @@
 
 
 </p>
-<h3 align="center">Frontend Development | Web & Graphic Design | Social Media Management From Sri Lanka</h3>
+
+<h3 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=1200&pause=2500&center=true&vCenter=true&width=1500&lines=Frontend+Developer;Frontend+Developer+%7C+Web+Designer;Frontend+Developer+%7C+Web+Designer+%7C+Graphic+Designer;Frontend+Developer+%7C+Web+Designer+%7C+Graphic+Designer+%7C+Social+Media+Manager"
+    alt="Typing SVG"
+  />
+</h3>
+
+<h4 align="center">
+🇱🇰 From Sri Lanka
+</h4>
+
+
 
 ---
 
