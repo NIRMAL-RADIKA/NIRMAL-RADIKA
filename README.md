@@ -1,4 +1,28 @@
-<h1 align="center">Hi 👋, I'm NIRMAL-RADIKA</h1>
+<div align="center">
+
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=1800&pause=999999&color=FF2D55&center=true&vCenter=true&multiline=true&width=850&height=120&lines=NIRMAL-RADIKA;======================" alt="NIRMAL-RADIKA" />
+
+</div>
+
+
+
+
+
+
+</div>
+
+<div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Open+Source+Contributor;Building+Amazing+Projects" alt="Typing SVG" />
+
+</div>
+
+
+</p>
 <h3 align="center">Frontend Development | Web & Graphic Design | Social Media Management From Sri Lanka</h3>
 
 ---
